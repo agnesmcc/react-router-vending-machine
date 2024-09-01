@@ -1,0 +1,12 @@
+.navbar {
+    background-color: lightpink;
+}
+
+.navbar a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar a.active {
+    color: white;
+}
